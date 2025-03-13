@@ -12,9 +12,9 @@ export function Footer() {
       <div>
         <h5 className="font-bold">Referências:</h5>
         <ul className="pl-2">
-          <li><a href="#">Lorem ipsum</a></li>
-          <li><a href="#">Lorem ipsum</a></li>
-          <li><a href="#">Lorem ipsum</a></li>
+          <li><a href="https://www.escritoriodearte.com/artista/maria-martins">Escritório de Arte</a></li>
+          <li><a href="https://mam.rio/artistas/maria-martins/">Museu de Arte Moderna - Rio de Janeiro</a></li>
+          <li><a href="https://enciclopedia.itaucultural.org.br/pessoas/6133-maria-martins/obras">Enciclopédia Itaú Cultural</a></li>
         </ul>
       </div>
     </footer>

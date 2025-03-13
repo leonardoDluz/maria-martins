@@ -1,7 +1,7 @@
 import { Banner } from "./components/Banner"
 import { Footer } from "./components/Footer"
-import { Obras } from "./components/Obras"
 import { Sobre } from "./components/Sobre"
+import Obras from "./components/Obras"
 
 function App() {
 
