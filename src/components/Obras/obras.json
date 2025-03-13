@@ -1,0 +1,15 @@
+[
+  { "index": 1, "src": "src/assets/obras/A Soma de Nossos Dias.webp", "name": "A Soma de Nossos Dias", "year": "1954", "material": "Sermolite e estanho" },
+  { "index": 2, "src": "src/assets/obras/Cobra Grande.webp", "name": "Cobra Grande", "year": "1942", "material": "Bronze" },
+  { "index": 3, "src": "src/assets/obras/Glebe-ailes.webp", "name": "Glebe-ailes", "year": "1944", "material": "Bronze" },
+  { "index": 4, "src": "src/assets/obras/However.webp", "name": "However", "year": "1944", "material": "Bronze polido e patinado" },
+  { "index": 5, "src": "src/assets/obras/Impossible.webp", "name": "Impossible", "year": "1946", "material": "Gravura em metal" },
+  { "index": 6, "src": "src/assets/obras/Mulher e sua Sombra.webp", "name": "Mulher e sua Sombra", "year": "1950", "material": "Bronze" },
+  { "index": 7, "src": "src/assets/obras/Não te Esqueças Nunca que Eu Venho dos Trópicos.webp", "name": "Não te Esqueças Nunca que Eu Venho dos Trópicos", "year": "1942", "material": "Bronze" },
+  { "index": 8, "src": "src/assets/obras/O Implacável.webp", "name": "O Implacável", "year": "1947", "material": "Bronze patinado" },
+  { "index": 9, "src": "src/assets/obras/O Impossível.webp", "name": "O Impossível", "year": "1940", "material": "Bronze fundido patinado" },
+  { "index": 10, "src": "src/assets/obras/O Impossível(1).webp", "name": "O Impossível", "year": "1945", "material": "Bronze" },
+  { "index": 11, "src": "src/assets/obras/Prometeu.webp", "name": "Prometeu", "year": "1948", "material": "Bronze" },
+  { "index": 12, "src": "src/assets/obras/Salomé.webp", "name": "Salomé", "year": "1940", "material": "Bronze" },
+  { "index": 13, "src": "src/assets/obras/Sem Eco.webp", "name": "Sem Eco", "year": "1943", "material": "Bronze" }
+]
