@@ -1,5 +1,5 @@
 import  { useState } from 'react';
-import obrasJson from './obras.json'
+import obrasJson from './obras'
 import { Card } from './Card';
 import { Buttons } from './Buttons';
 
