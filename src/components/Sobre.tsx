@@ -2,7 +2,7 @@ import picture from '../assets/maria.webp'
 
 export function Sobre() {
   return (
-    <section className="flex justify-evenly py-3.5 px-2.5 h-[100vh] items-center bg-amber-300">
+    <section className="flex justify-evenly py-3.5 px-2.5 h-[100vh] items-center">
       <img src={picture} alt="foto da Maria" className="w-[28vw] h-[50vh]"/>
       <div className="w-[55vw]">
         <h2 className="text-3xl mb-1.5 font-bold">Sobre</h2>
