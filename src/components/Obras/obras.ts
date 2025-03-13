@@ -20,7 +20,7 @@ export default [
   { src: img5, name: "Impossible", year: "1946", material: "Gravura em metal" },
   { src: img6, name: "Mulher e sua Sombra", year: "1950", material: "Bronze" },
   { src: img7, name: "Não te Esqueças Nunca que Eu Venho dos Trópicos", year: "1942", material: "Bronze" },
-  { src: img8, year: "1947", material: "Bronze patinado" },
+  { src: img8, name: "O Implacável", year: "1947", material: "Bronze patinado" },
   { src: img9, name: "O Impossível", year: "1940", material: "Bronze fundido patinado" },
   { src: img10, name: "O Impossível", year: "1945", material: "Bronze" },
   { src: img11, name: "Prometeu", year: "1948", material: "Bronze" },
