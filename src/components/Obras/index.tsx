@@ -1,12 +1,10 @@
 import  { useState } from 'react';
-import obrasJson from './obras'
+import obras from './obras'
 import { Card } from './Card';
 import { Buttons } from './Buttons';
 
 export function Obras() {
   const [slideIndex, setSlideIndex] = useState(0);
-
-  const obras = obrasJson;
 
   function plusDivs(n: number) {
     console.log(slideIndex);
