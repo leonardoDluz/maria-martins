@@ -1,4 +1,4 @@
-import banner from '../assets/maria_martins.png'
+import banner from '@/assets/maria_martins.png'
 
 export function Banner() {
   return (
